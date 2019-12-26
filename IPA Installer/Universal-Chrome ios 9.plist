@@ -11,19 +11,17 @@
       <key>kind</key>
       <string>software-package</string>
       <key>url</key>
-      <string>https://github.com/kienqb94/kiennguyen.github.io/blob/master/MobiFoneTV%202.0.27.ipa?raw=true</string>
+      <string>link</string>
      </dict>
     </array>
     <key>metadata</key>
     <dict>
      <key>bundle-identifier</key>
-     <string>com.readdle.Calendars</string>
+     <string>com.lk.ipa</string>
      <key>bundle-version</key>
-     <string>3800</string>
+     <string>1.0.0</string>
      <key>kind</key>
-	 <string>software</string>
-	 <key>subtitle</key>
-     <string>FolderGithub</string>
+     <string>software</string>
      <key>title</key>
      <string>IPA INSTALL by Kiên Nguyễn</string>
     </dict>
