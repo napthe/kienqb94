@@ -2,7 +2,7 @@
 
 • Chrome
 
-<quote>https://tinyurl.com/Chromeios9-by-kien</quote> [ios 9]
+<code>https://tinyurl.com/Chromeios9-by-kien</code> [ios 9]
 
 • Youtube
 
