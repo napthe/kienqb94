@@ -1,8 +1,8 @@
 # Link Download App
 
 • Chrome
-
-<code>https://tinyurl.com/Chromeios9-by-kien</code> [ios 9]
+[ios 9]
+<code> https://tinyurl.com/Chromeios9-by-kien </code>
 
 • Youtube
 
