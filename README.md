@@ -2,30 +2,26 @@
 
 • Chrome
 
+<code> https://tinyurl.com/Chromeios9-by-kien </code>
 [ios 9]
-
-<code> 
-
-https://tinyurl.com/Chromeios9-by-kien
-
-</code>
-
 • Youtube
 
+<code> https://tinyurl.com/Youtubeios9-by-kien </code>
 [ios 9]
-
-https://tinyurl.com/Youtubeios9-by-kien
-
 • Facebook
 
-https://tinyurl.com/FBv235-by-kien [v235]
+<code> https://tinyurl.com/FBv235-by-kien </code>
+[v235]
 
-https://tinyurl.com/Fbv237-by-kien [v237]
+<code> https://tinyurl.com/Fbv237-by-kien </code>
+[v237]
 
 • Messenger
 
-https://tinyurl.com/Messenger229-by-kien [v229.1]
+<code> https://tinyurl.com/Messenger229-by-kien </code>
+[v229.1]
 
 • Mifit
 
-https://tinyurl.com/Mifit-4-0-11-by-kien [4.0.11]
+<code> https://tinyurl.com/Mifit-4-0-11-by-kien </code>
+[4.0.11]
