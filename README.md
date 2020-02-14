@@ -4,11 +4,15 @@
 
 [ios 9]
 
-<code> https://tinyurl.com/Chromeios9-by-kien </code>
+<code> 
+https://tinyurl.com/Chromeios9-by-kien 
+</code>
 
 • Youtube
 
-https://tinyurl.com/Youtubeios9-by-kien [ios 9]
+[ios 9]
+
+https://tinyurl.com/Youtubeios9-by-kien
 
 • Facebook
 
