@@ -1,8 +1,10 @@
-# Link Download App
+# Link Download App Cũ
 
 • Chrome
 
-<code> https://tinyurl.com/Chromeios9-by-kien </code>
+```
+https://tinyurl.com/Chromeios9-by-kien
+```
 [ios 9]
 
 • Youtube
