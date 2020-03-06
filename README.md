@@ -6,6 +6,9 @@
 • Youtube
 [ios 9](https://tinyurl.com/Youtubeios9-by-kien)
 
+• Facebook 
+[v82](https://tinyurl.com/Facebook-v82-by-kien)
+
 • Facebook
 [v235](https://tinyurl.com/FBv235-by-kien)
 
