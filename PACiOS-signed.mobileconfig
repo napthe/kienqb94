@@ -1,0 +1,38 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <title>Config Signer - iOS CodeVN</title>
+    <link rel="stylesheet" href="./style.css">
+    <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet'>
+</head>
+<body>
+    <header>
+        <h1><a href="/">iOS CodeVn</a></h1>
+        <p>App phiên bản cũ cho iOS</p>
+    </header>
+
+    <div class="container">
+            <div class="content">
+        <center>
+                <h2>Config Signer - iOS CodeVN</h2>
+                <p>
+                    <b style="font-weight:600!important;">Note:</b> Make sure the config is unsigned to begin with.
+                </p>
+                <form method="post" enctype="multipart/form-data">
+                    <input type="file" name="company_sign" id="companySign" accept=".mobileconfig" required>
+                    <input type="submit" name="sign" value="Sign" class="button" />
+                </form>
+                <p>
+                    On pressing Sign, it will download the signed version.
+                </p>
+                <p>
+                    The signed version will be signed under: <b style="font-weight:600!important;">codevn.net</b>
+                </p>
+        </center>
+        </div>
+    </div>
+</body>
+</html>
