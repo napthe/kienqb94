@@ -29,7 +29,7 @@
 		<dict>
 			<key>LockScreenFootnote</key>
 			<string>This iPhone is supervised and managed by © Kiên Nguyễn TTc.</string>
-<key>OrganizationName</key>
+                             <key>OrganizationName</key>
 			<string>Kiên Nguyễn</string>
 			<key>PayloadDisplayName</key>
 			<string>Lock Screen Settings</string>
@@ -54,6 +54,8 @@
 
 	<key>PayloadDisplayName</key>
 	<string>PACiOS®</string>
+          <key>PayloadOrganization</key>
+	<string>Kiên Nguyễn TTc</string>
 	<key>PayloadIdentifier</key>
 	<string>michaels-imac.local.CECF75B7-75A4-4FC8-8B9B-1DFEDC31D3D9</string>
 	<key>PayloadRemovalDisallowed</key>
