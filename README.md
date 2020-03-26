@@ -12,7 +12,7 @@
 [v235](https://tinyurl.com/FBv235-by-kien)|
 [v237](https://tinyurl.com/Fbv237-by-kien)|
 [v198](https://tinyurl.com/facebook-198)|
-
+[v252.3](https://tinyurl.com/facebook-v252)
 • Messenger
 [v229.1](https://tinyurl.com/Messenger229-by-kien)
 
